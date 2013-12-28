@@ -13,7 +13,7 @@
 #define FRAME_COUNTER 0x00123456
 
 #include "dec.cpp"
-
+//./a.out 0x123456789abcdef 0x12345 hw3.cpp hw3.cpp.enc2 
 
 using namespace std;
 
